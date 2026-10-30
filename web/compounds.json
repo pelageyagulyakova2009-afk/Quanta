@@ -1,0 +1,2582 @@
+{
+  "H": {
+    "partners": [
+      "O",
+      "C",
+      "N",
+      "Cl",
+      "F",
+      "S"
+    ],
+    "bond_character": "ковалентные связи с неметаллами; гидриды с металлами",
+    "compounds": [
+      {
+        "formula": "H2O",
+        "name_ru": "вода",
+        "name_en": "water",
+        "note": "основа жизни"
+      },
+      {
+        "formula": "H2O2",
+        "name_ru": "пероксид водорода",
+        "name_en": "hydrogen peroxide",
+        "note": "окислитель"
+      },
+      {
+        "formula": "HCl",
+        "name_ru": "хлороводород",
+        "name_en": "hydrogen chloride",
+        "note": "соляная кислота в растворе"
+      },
+      {
+        "formula": "NH3",
+        "name_ru": "аммиак",
+        "name_en": "ammonia",
+        "note": "в составе с азотом"
+      },
+      {
+        "formula": "CH4",
+        "name_ru": "метан",
+        "name_en": "methane",
+        "note": "простейший углеводород"
+      },
+      {
+        "formula": "H2SO4",
+        "name_ru": "серная кислота",
+        "name_en": "sulfuric acid",
+        "note": "сильная кислота"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/1/hydrogen",
+      "https://en.wikipedia.org/wiki/Compounds_of_hydrogen"
+    ]
+  },
+  "He": {
+    "partners": [],
+    "bond_character": "инертен, устойчивых соединений не образует",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/element/2/helium"
+    ]
+  },
+  "Li": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "H",
+      "C",
+      "N"
+    ],
+    "bond_character": "ионные связи с неметаллами",
+    "compounds": [
+      {
+        "formula": "Li2O",
+        "name_ru": "оксид лития",
+        "name_en": "lithium oxide",
+        "note": ""
+      },
+      {
+        "formula": "LiCl",
+        "name_ru": "хлорид лития",
+        "name_en": "lithium chloride",
+        "note": ""
+      },
+      {
+        "formula": "LiH",
+        "name_ru": "гидрид лития",
+        "name_en": "lithium hydride",
+        "note": ""
+      },
+      {
+        "formula": "Li2CO3",
+        "name_ru": "карбонат лития",
+        "name_en": "lithium carbonate",
+        "note": "в медицине и батареях"
+      },
+      {
+        "formula": "LiOH",
+        "name_ru": "гидроксид лития",
+        "name_en": "lithium hydroxide",
+        "note": "щёлочь"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/3/lithium",
+      "https://en.wikipedia.org/wiki/Compounds_of_lithium"
+    ]
+  },
+  "Be": {
+    "partners": [
+      "O",
+      "Cl",
+      "F"
+    ],
+    "bond_character": "преимущественно ковалентно-полярные связи",
+    "compounds": [
+      {
+        "formula": "BeO",
+        "name_ru": "оксид бериллия",
+        "name_en": "beryllium oxide",
+        "note": "тугоплавкая керамика"
+      },
+      {
+        "formula": "BeCl2",
+        "name_ru": "хлорид бериллия",
+        "name_en": "beryllium chloride",
+        "note": ""
+      },
+      {
+        "formula": "BeF2",
+        "name_ru": "фторид бериллия",
+        "name_en": "beryllium fluoride",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/4/beryllium"
+    ]
+  },
+  "B": {
+    "partners": [
+      "O",
+      "H",
+      "N",
+      "F",
+      "Cl"
+    ],
+    "bond_character": "ковалентные связи",
+    "compounds": [
+      {
+        "formula": "B2O3",
+        "name_ru": "оксид бора",
+        "name_en": "boron trioxide",
+        "note": ""
+      },
+      {
+        "formula": "H3BO3",
+        "name_ru": "борная кислота",
+        "name_en": "boric acid",
+        "note": "антисептик"
+      },
+      {
+        "formula": "BN",
+        "name_ru": "нитрид бора",
+        "name_en": "boron nitride",
+        "note": "сверхтвёрдый материал"
+      },
+      {
+        "formula": "BF3",
+        "name_ru": "трифторид бора",
+        "name_en": "boron trifluoride",
+        "note": "кислота Льюиса"
+      },
+      {
+        "formula": "Na2B4O7",
+        "name_ru": "бура",
+        "name_en": "borax",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/5/boron",
+      "https://en.wikipedia.org/wiki/Compounds_of_boron"
+    ]
+  },
+  "C": {
+    "partners": [
+      "H",
+      "O",
+      "N",
+      "Cl",
+      "S",
+      "Si"
+    ],
+    "bond_character": "ковалентные связи, основа органики",
+    "compounds": [
+      {
+        "formula": "CO2",
+        "name_ru": "углекислый газ",
+        "name_en": "carbon dioxide",
+        "note": ""
+      },
+      {
+        "formula": "CO",
+        "name_ru": "угарный газ",
+        "name_en": "carbon monoxide",
+        "note": "ядовит"
+      },
+      {
+        "formula": "CH4",
+        "name_ru": "метан",
+        "name_en": "methane",
+        "note": ""
+      },
+      {
+        "formula": "CaCO3",
+        "name_ru": "карбонат кальция",
+        "name_en": "calcium carbonate",
+        "note": "мел, известняк"
+      },
+      {
+        "formula": "C6H12O6",
+        "name_ru": "глюкоза",
+        "name_en": "glucose",
+        "note": "сахар"
+      },
+      {
+        "formula": "SiC",
+        "name_ru": "карбид кремния",
+        "name_en": "silicon carbide",
+        "note": "абразив"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/6/carbon",
+      "https://en.wikipedia.org/wiki/Compounds_of_carbon"
+    ]
+  },
+  "N": {
+    "partners": [
+      "H",
+      "O",
+      "C"
+    ],
+    "bond_character": "ковалентные связи; тройная связь в N2",
+    "compounds": [
+      {
+        "formula": "NH3",
+        "name_ru": "аммиак",
+        "name_en": "ammonia",
+        "note": ""
+      },
+      {
+        "formula": "HNO3",
+        "name_ru": "азотная кислота",
+        "name_en": "nitric acid",
+        "note": "сильная кислота"
+      },
+      {
+        "formula": "NO2",
+        "name_ru": "диоксид азота",
+        "name_en": "nitrogen dioxide",
+        "note": "бурый газ"
+      },
+      {
+        "formula": "N2O",
+        "name_ru": "закись азота",
+        "name_en": "nitrous oxide",
+        "note": "веселящий газ"
+      },
+      {
+        "formula": "NH4NO3",
+        "name_ru": "нитрат аммония",
+        "name_en": "ammonium nitrate",
+        "note": "удобрение"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/7/nitrogen",
+      "https://en.wikipedia.org/wiki/Compounds_of_nitrogen"
+    ]
+  },
+  "O": {
+    "partners": [
+      "H",
+      "C",
+      "N",
+      "S",
+      "Fe",
+      "Si"
+    ],
+    "bond_character": "образует оксиды почти со всеми элементами",
+    "compounds": [
+      {
+        "formula": "H2O",
+        "name_ru": "вода",
+        "name_en": "water",
+        "note": ""
+      },
+      {
+        "formula": "CO2",
+        "name_ru": "углекислый газ",
+        "name_en": "carbon dioxide",
+        "note": ""
+      },
+      {
+        "formula": "SiO2",
+        "name_ru": "кремнезём",
+        "name_en": "silicon dioxide",
+        "note": "кварц, песок"
+      },
+      {
+        "formula": "Fe2O3",
+        "name_ru": "оксид железа(III)",
+        "name_en": "iron(III) oxide",
+        "note": "ржавчина"
+      },
+      {
+        "formula": "SO2",
+        "name_ru": "диоксид серы",
+        "name_en": "sulfur dioxide",
+        "note": ""
+      },
+      {
+        "formula": "O3",
+        "name_ru": "озон",
+        "name_en": "ozone",
+        "note": "защитный слой"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/8/oxygen",
+      "https://en.wikipedia.org/wiki/Compounds_of_oxygen"
+    ]
+  },
+  "F": {
+    "partners": [
+      "H",
+      "C",
+      "Na",
+      "Ca",
+      "S",
+      "U"
+    ],
+    "bond_character": "самый сильный окислитель, ионные и ковалентные связи",
+    "compounds": [
+      {
+        "formula": "HF",
+        "name_ru": "фтороводород",
+        "name_en": "hydrogen fluoride",
+        "note": "плавиковая кислота"
+      },
+      {
+        "formula": "NaF",
+        "name_ru": "фторид натрия",
+        "name_en": "sodium fluoride",
+        "note": "в зубной пасте"
+      },
+      {
+        "formula": "CaF2",
+        "name_ru": "флюорит",
+        "name_en": "calcium fluoride",
+        "note": ""
+      },
+      {
+        "formula": "SF6",
+        "name_ru": "гексафторид серы",
+        "name_en": "sulfur hexafluoride",
+        "note": "изолятор"
+      },
+      {
+        "formula": "UF6",
+        "name_ru": "гексафторид урана",
+        "name_en": "uranium hexafluoride",
+        "note": "обогащение урана"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/9/fluorine",
+      "https://en.wikipedia.org/wiki/Compounds_of_fluorine"
+    ]
+  },
+  "Ne": {
+    "partners": [],
+    "bond_character": "инертен, устойчивых соединений не образует",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/element/10/neon"
+    ]
+  },
+  "Na": {
+    "partners": [
+      "Cl",
+      "O",
+      "F",
+      "S",
+      "H",
+      "C"
+    ],
+    "bond_character": "ионные связи с неметаллами",
+    "compounds": [
+      {
+        "formula": "NaCl",
+        "name_ru": "хлорид натрия",
+        "name_en": "sodium chloride",
+        "note": "поваренная соль"
+      },
+      {
+        "formula": "NaOH",
+        "name_ru": "гидроксид натрия",
+        "name_en": "sodium hydroxide",
+        "note": "едкий натр"
+      },
+      {
+        "formula": "Na2CO3",
+        "name_ru": "карбонат натрия",
+        "name_en": "sodium carbonate",
+        "note": "сода"
+      },
+      {
+        "formula": "NaHCO3",
+        "name_ru": "гидрокарбонат натрия",
+        "name_en": "sodium bicarbonate",
+        "note": "пищевая сода"
+      },
+      {
+        "formula": "Na2SO4",
+        "name_ru": "сульфат натрия",
+        "name_en": "sodium sulfate",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/11/sodium",
+      "https://en.wikipedia.org/wiki/Compounds_of_sodium"
+    ]
+  },
+  "Mg": {
+    "partners": [
+      "O",
+      "Cl",
+      "S",
+      "C",
+      "H"
+    ],
+    "bond_character": "ионные связи с неметаллами",
+    "compounds": [
+      {
+        "formula": "MgO",
+        "name_ru": "оксид магния",
+        "name_en": "magnesium oxide",
+        "note": "жжёная магнезия"
+      },
+      {
+        "formula": "MgCl2",
+        "name_ru": "хлорид магния",
+        "name_en": "magnesium chloride",
+        "note": ""
+      },
+      {
+        "formula": "Mg(OH)2",
+        "name_ru": "гидроксид магния",
+        "name_en": "magnesium hydroxide",
+        "note": "магнезиальное молоко"
+      },
+      {
+        "formula": "MgSO4",
+        "name_ru": "сульфат магния",
+        "name_en": "magnesium sulfate",
+        "note": "английская соль"
+      },
+      {
+        "formula": "MgCO3",
+        "name_ru": "карбонат магния",
+        "name_en": "magnesium carbonate",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/12/magnesium",
+      "https://en.wikipedia.org/wiki/Compounds_of_magnesium"
+    ]
+  },
+  "Al": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S"
+    ],
+    "bond_character": "ковалентно-ионные связи, амфотерные оксиды",
+    "compounds": [
+      {
+        "formula": "Al2O3",
+        "name_ru": "оксид алюминия",
+        "name_en": "aluminium oxide",
+        "note": "корунд"
+      },
+      {
+        "formula": "AlCl3",
+        "name_ru": "хлорид алюминия",
+        "name_en": "aluminium chloride",
+        "note": "катализатор"
+      },
+      {
+        "formula": "Al(OH)3",
+        "name_ru": "гидроксид алюминия",
+        "name_en": "aluminium hydroxide",
+        "note": ""
+      },
+      {
+        "formula": "Al2(SO4)3",
+        "name_ru": "сульфат алюминия",
+        "name_en": "aluminium sulfate",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/13/aluminium",
+      "https://en.wikipedia.org/wiki/Compounds_of_aluminium"
+    ]
+  },
+  "Si": {
+    "partners": [
+      "O",
+      "C",
+      "H",
+      "F",
+      "Cl"
+    ],
+    "bond_character": "ковалентные связи",
+    "compounds": [
+      {
+        "formula": "SiO2",
+        "name_ru": "диоксид кремния",
+        "name_en": "silicon dioxide",
+        "note": "кварц"
+      },
+      {
+        "formula": "SiC",
+        "name_ru": "карбид кремния",
+        "name_en": "silicon carbide",
+        "note": "карборунд"
+      },
+      {
+        "formula": "SiH4",
+        "name_ru": "силан",
+        "name_en": "silane",
+        "note": ""
+      },
+      {
+        "formula": "SiCl4",
+        "name_ru": "тетрахлорид кремния",
+        "name_en": "silicon tetrachloride",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/14/silicon",
+      "https://en.wikipedia.org/wiki/Compounds_of_silicon"
+    ]
+  },
+  "P": {
+    "partners": [
+      "O",
+      "H",
+      "Cl",
+      "Ca"
+    ],
+    "bond_character": "ковалентные связи",
+    "compounds": [
+      {
+        "formula": "P2O5",
+        "name_ru": "оксид фосфора(V)",
+        "name_en": "phosphorus pentoxide",
+        "note": "осушитель"
+      },
+      {
+        "formula": "H3PO4",
+        "name_ru": "фосфорная кислота",
+        "name_en": "phosphoric acid",
+        "note": ""
+      },
+      {
+        "formula": "PCl3",
+        "name_ru": "трихлорид фосфора",
+        "name_en": "phosphorus trichloride",
+        "note": ""
+      },
+      {
+        "formula": "Ca3(PO4)2",
+        "name_ru": "фосфат кальция",
+        "name_en": "calcium phosphate",
+        "note": "кости, апатит"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/15/phosphorus",
+      "https://en.wikipedia.org/wiki/Compounds_of_phosphorus"
+    ]
+  },
+  "S": {
+    "partners": [
+      "O",
+      "H",
+      "Fe",
+      "Cu",
+      "Na"
+    ],
+    "bond_character": "ковалентные связи с неметаллами, сульфиды с металлами",
+    "compounds": [
+      {
+        "formula": "H2SO4",
+        "name_ru": "серная кислота",
+        "name_en": "sulfuric acid",
+        "note": ""
+      },
+      {
+        "formula": "SO2",
+        "name_ru": "диоксид серы",
+        "name_en": "sulfur dioxide",
+        "note": ""
+      },
+      {
+        "formula": "H2S",
+        "name_ru": "сероводород",
+        "name_en": "hydrogen sulfide",
+        "note": "запах тухлых яиц"
+      },
+      {
+        "formula": "FeS2",
+        "name_ru": "пирит",
+        "name_en": "iron pyrite",
+        "note": "«золото дураков»"
+      },
+      {
+        "formula": "Na2SO4",
+        "name_ru": "сульфат натрия",
+        "name_en": "sodium sulfate",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/16/sulfur",
+      "https://en.wikipedia.org/wiki/Compounds_of_sulfur"
+    ]
+  },
+  "Cl": {
+    "partners": [
+      "Na",
+      "H",
+      "K",
+      "Ca",
+      "Fe",
+      "O"
+    ],
+    "bond_character": "ионные связи с металлами, ковалентные с неметаллами",
+    "compounds": [
+      {
+        "formula": "NaCl",
+        "name_ru": "хлорид натрия",
+        "name_en": "sodium chloride",
+        "note": "соль"
+      },
+      {
+        "formula": "HCl",
+        "name_ru": "хлороводород",
+        "name_en": "hydrogen chloride",
+        "note": "соляная кислота"
+      },
+      {
+        "formula": "KCl",
+        "name_ru": "хлорид калия",
+        "name_en": "potassium chloride",
+        "note": "удобрение"
+      },
+      {
+        "formula": "CaCl2",
+        "name_ru": "хлорид кальция",
+        "name_en": "calcium chloride",
+        "note": "осушитель"
+      },
+      {
+        "formula": "FeCl3",
+        "name_ru": "хлорид железа(III)",
+        "name_en": "iron(III) chloride",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/17/chlorine",
+      "https://en.wikipedia.org/wiki/Compounds_of_chlorine"
+    ]
+  },
+  "Ar": {
+    "partners": [],
+    "bond_character": "инертен, устойчивых соединений не образует",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/element/18/argon"
+    ]
+  },
+  "K": {
+    "partners": [
+      "Cl",
+      "O",
+      "N",
+      "S",
+      "C"
+    ],
+    "bond_character": "ионные связи с неметаллами",
+    "compounds": [
+      {
+        "formula": "KCl",
+        "name_ru": "хлорид калия",
+        "name_en": "potassium chloride",
+        "note": "удобрение"
+      },
+      {
+        "formula": "KOH",
+        "name_ru": "гидроксид калия",
+        "name_en": "potassium hydroxide",
+        "note": "едкое кали"
+      },
+      {
+        "formula": "KNO3",
+        "name_ru": "нитрат калия",
+        "name_en": "potassium nitrate",
+        "note": "селитра"
+      },
+      {
+        "formula": "K2CO3",
+        "name_ru": "карбонат калия",
+        "name_en": "potassium carbonate",
+        "note": "поташ"
+      },
+      {
+        "formula": "KMnO4",
+        "name_ru": "перманганат калия",
+        "name_en": "potassium permanganate",
+        "note": "марганцовка"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/19/potassium",
+      "https://en.wikipedia.org/wiki/Compounds_of_potassium"
+    ]
+  },
+  "Ca": {
+    "partners": [
+      "O",
+      "C",
+      "Cl",
+      "F",
+      "P",
+      "S"
+    ],
+    "bond_character": "ионные связи с неметаллами",
+    "compounds": [
+      {
+        "formula": "CaCO3",
+        "name_ru": "карбонат кальция",
+        "name_en": "calcium carbonate",
+        "note": "мел, известняк"
+      },
+      {
+        "formula": "CaO",
+        "name_ru": "оксид кальция",
+        "name_en": "calcium oxide",
+        "note": "негашёная известь"
+      },
+      {
+        "formula": "Ca(OH)2",
+        "name_ru": "гидроксид кальция",
+        "name_en": "calcium hydroxide",
+        "note": "гашёная известь"
+      },
+      {
+        "formula": "CaSO4",
+        "name_ru": "сульфат кальция",
+        "name_en": "calcium sulfate",
+        "note": "гипс"
+      },
+      {
+        "formula": "CaCl2",
+        "name_ru": "хлорид кальция",
+        "name_en": "calcium chloride",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/20/calcium",
+      "https://en.wikipedia.org/wiki/Compounds_of_calcium"
+    ]
+  },
+  "Sc": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_scandium"
+    ]
+  },
+  "Ti": {
+    "partners": [
+      "O",
+      "Cl",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи",
+    "compounds": [
+      {
+        "formula": "TiO2",
+        "name_ru": "диоксид титана",
+        "name_en": "titanium dioxide",
+        "note": "белый пигмент"
+      },
+      {
+        "formula": "TiCl4",
+        "name_ru": "тетрахлорид титана",
+        "name_en": "titanium tetrachloride",
+        "note": ""
+      },
+      {
+        "formula": "TiN",
+        "name_ru": "нитрид титана",
+        "name_en": "titanium nitride",
+        "note": "твёрдое покрытие"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/22/titanium"
+    ]
+  },
+  "V": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_vanadium"
+    ]
+  },
+  "Cr": {
+    "partners": [
+      "O",
+      "Cl",
+      "K"
+    ],
+    "bond_character": "ковалентно-ионные связи, окраска соединений",
+    "compounds": [
+      {
+        "formula": "Cr2O3",
+        "name_ru": "оксид хрома(III)",
+        "name_en": "chromium(III) oxide",
+        "note": "зелёный пигмент"
+      },
+      {
+        "formula": "K2Cr2O7",
+        "name_ru": "дихромат калия",
+        "name_en": "potassium dichromate",
+        "note": "окислитель"
+      },
+      {
+        "formula": "CrCl3",
+        "name_ru": "хлорид хрома(III)",
+        "name_en": "chromium(III) chloride",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/24/chromium"
+    ]
+  },
+  "Mn": {
+    "partners": [
+      "O",
+      "Cl",
+      "K"
+    ],
+    "bond_character": "ковалентно-ионные связи",
+    "compounds": [
+      {
+        "formula": "MnO2",
+        "name_ru": "диоксид марганца",
+        "name_en": "manganese dioxide",
+        "note": "в батарейках"
+      },
+      {
+        "formula": "KMnO4",
+        "name_ru": "перманганат калия",
+        "name_en": "potassium permanganate",
+        "note": "марганцовка"
+      },
+      {
+        "formula": "MnCl2",
+        "name_ru": "хлорид марганца(II)",
+        "name_en": "manganese(II) chloride",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/25/manganese"
+    ]
+  },
+  "Fe": {
+    "partners": [
+      "O",
+      "S",
+      "Cl",
+      "C"
+    ],
+    "bond_character": "ковалентно-ионные связи",
+    "compounds": [
+      {
+        "formula": "Fe2O3",
+        "name_ru": "оксид железа(III)",
+        "name_en": "iron(III) oxide",
+        "note": "ржавчина"
+      },
+      {
+        "formula": "Fe3O4",
+        "name_ru": "магнетит",
+        "name_en": "magnetite",
+        "note": ""
+      },
+      {
+        "formula": "FeS2",
+        "name_ru": "пирит",
+        "name_en": "iron pyrite",
+        "note": ""
+      },
+      {
+        "formula": "FeCl3",
+        "name_ru": "хлорид железа(III)",
+        "name_en": "iron(III) chloride",
+        "note": ""
+      },
+      {
+        "formula": "FeSO4",
+        "name_ru": "сульфат железа(II)",
+        "name_en": "iron(II) sulfate",
+        "note": "железный купорос"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/26/iron",
+      "https://en.wikipedia.org/wiki/Compounds_of_iron"
+    ]
+  },
+  "Co": {
+    "partners": [
+      "O",
+      "Cl"
+    ],
+    "bond_character": "ковалентно-ионные связи",
+    "compounds": [
+      {
+        "formula": "CoO",
+        "name_ru": "оксид кобальта(II)",
+        "name_en": "cobalt(II) oxide",
+        "note": ""
+      },
+      {
+        "formula": "CoCl2",
+        "name_ru": "хлорид кобальта(II)",
+        "name_en": "cobalt(II) chloride",
+        "note": "индикатор влаги"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/27/cobalt"
+    ]
+  },
+  "Ni": {
+    "partners": [
+      "O",
+      "Cl",
+      "S"
+    ],
+    "bond_character": "ковалентно-ионные связи",
+    "compounds": [
+      {
+        "formula": "NiO",
+        "name_ru": "оксид никеля(II)",
+        "name_en": "nickel(II) oxide",
+        "note": ""
+      },
+      {
+        "formula": "NiCl2",
+        "name_ru": "хлорид никеля(II)",
+        "name_en": "nickel(II) chloride",
+        "note": ""
+      },
+      {
+        "formula": "NiSO4",
+        "name_ru": "сульфат никеля(II)",
+        "name_en": "nickel(II) sulfate",
+        "note": "гальваника"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/28/nickel"
+    ]
+  },
+  "Cu": {
+    "partners": [
+      "O",
+      "S",
+      "Cl",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи",
+    "compounds": [
+      {
+        "formula": "CuO",
+        "name_ru": "оксид меди(II)",
+        "name_en": "copper(II) oxide",
+        "note": ""
+      },
+      {
+        "formula": "CuSO4",
+        "name_ru": "сульфат меди(II)",
+        "name_en": "copper(II) sulfate",
+        "note": "медный купорос"
+      },
+      {
+        "formula": "Cu2O",
+        "name_ru": "оксид меди(I)",
+        "name_en": "copper(I) oxide",
+        "note": "красный"
+      },
+      {
+        "formula": "CuCl2",
+        "name_ru": "хлорид меди(II)",
+        "name_en": "copper(II) chloride",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/29/copper",
+      "https://en.wikipedia.org/wiki/Compounds_of_copper"
+    ]
+  },
+  "Zn": {
+    "partners": [
+      "O",
+      "S",
+      "Cl"
+    ],
+    "bond_character": "ионные связи, амфотерный оксид",
+    "compounds": [
+      {
+        "formula": "ZnO",
+        "name_ru": "оксид цинка",
+        "name_en": "zinc oxide",
+        "note": "в мазях и красках"
+      },
+      {
+        "formula": "ZnS",
+        "name_ru": "сульфид цинка",
+        "name_en": "zinc sulfide",
+        "note": "люминофор"
+      },
+      {
+        "formula": "ZnCl2",
+        "name_ru": "хлорид цинка",
+        "name_en": "zinc chloride",
+        "note": ""
+      },
+      {
+        "formula": "ZnSO4",
+        "name_ru": "сульфат цинка",
+        "name_en": "zinc sulfate",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/30/zinc"
+    ]
+  },
+  "Ga": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_gallium"
+    ]
+  },
+  "Ge": {
+    "partners": [
+      "H",
+      "O",
+      "Na",
+      "K",
+      "Ca"
+    ],
+    "bond_character": "ковалентные связи с неметаллами, ионные с активными металлами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_germanium"
+    ]
+  },
+  "As": {
+    "partners": [
+      "H",
+      "O",
+      "Na",
+      "K",
+      "Ca"
+    ],
+    "bond_character": "ковалентные связи с неметаллами, ионные с активными металлами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_arsenic"
+    ]
+  },
+  "Se": {
+    "partners": [
+      "H",
+      "O",
+      "Na",
+      "K",
+      "Ca"
+    ],
+    "bond_character": "ковалентные связи с неметаллами, ионные с активными металлами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_selenium"
+    ]
+  },
+  "Br": {
+    "partners": [
+      "Na",
+      "K",
+      "H",
+      "Ag"
+    ],
+    "bond_character": "ионные связи с металлами, ковалентные с неметаллами",
+    "compounds": [
+      {
+        "formula": "HBr",
+        "name_ru": "бромоводород",
+        "name_en": "hydrogen bromide",
+        "note": ""
+      },
+      {
+        "formula": "NaBr",
+        "name_ru": "бромид натрия",
+        "name_en": "sodium bromide",
+        "note": ""
+      },
+      {
+        "formula": "KBr",
+        "name_ru": "бромид калия",
+        "name_en": "potassium bromide",
+        "note": ""
+      },
+      {
+        "formula": "AgBr",
+        "name_ru": "бромид серебра",
+        "name_en": "silver bromide",
+        "note": "фотоплёнка"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/35/bromine"
+    ]
+  },
+  "Kr": {
+    "partners": [],
+    "bond_character": "инертен, устойчивых соединений практически не образует",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/"
+    ]
+  },
+  "Rb": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_rubidium"
+    ]
+  },
+  "Sr": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_strontium"
+    ]
+  },
+  "Y": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_yttrium"
+    ]
+  },
+  "Zr": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_zirconium"
+    ]
+  },
+  "Nb": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_niobium"
+    ]
+  },
+  "Mo": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_molybdenum"
+    ]
+  },
+  "Tc": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_technetium"
+    ]
+  },
+  "Ru": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_ruthenium"
+    ]
+  },
+  "Rh": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_rhodium"
+    ]
+  },
+  "Pd": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_palladium"
+    ]
+  },
+  "Ag": {
+    "partners": [
+      "Cl",
+      "Br",
+      "O",
+      "N",
+      "S"
+    ],
+    "bond_character": "ковалентно-ионные связи",
+    "compounds": [
+      {
+        "formula": "AgNO3",
+        "name_ru": "нитрат серебра",
+        "name_en": "silver nitrate",
+        "note": "ляпис"
+      },
+      {
+        "formula": "AgCl",
+        "name_ru": "хлорид серебра",
+        "name_en": "silver chloride",
+        "note": "светочувствителен"
+      },
+      {
+        "formula": "AgBr",
+        "name_ru": "бромид серебра",
+        "name_en": "silver bromide",
+        "note": "фотография"
+      },
+      {
+        "formula": "Ag2O",
+        "name_ru": "оксид серебра",
+        "name_en": "silver oxide",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/47/silver"
+    ]
+  },
+  "Cd": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_cadmium"
+    ]
+  },
+  "In": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_indium"
+    ]
+  },
+  "Sn": {
+    "partners": [
+      "O",
+      "Cl",
+      "S"
+    ],
+    "bond_character": "ковалентно-ионные связи",
+    "compounds": [
+      {
+        "formula": "SnO2",
+        "name_ru": "диоксид олова",
+        "name_en": "tin dioxide",
+        "note": ""
+      },
+      {
+        "formula": "SnCl2",
+        "name_ru": "хлорид олова(II)",
+        "name_en": "tin(II) chloride",
+        "note": "восстановитель"
+      },
+      {
+        "formula": "SnCl4",
+        "name_ru": "хлорид олова(IV)",
+        "name_en": "tin(IV) chloride",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/50/tin"
+    ]
+  },
+  "Sb": {
+    "partners": [
+      "H",
+      "O",
+      "Na",
+      "K",
+      "Ca"
+    ],
+    "bond_character": "ковалентные связи с неметаллами, ионные с активными металлами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_antimony"
+    ]
+  },
+  "Te": {
+    "partners": [
+      "H",
+      "O",
+      "Na",
+      "K",
+      "Ca"
+    ],
+    "bond_character": "ковалентные связи с неметаллами, ионные с активными металлами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_tellurium"
+    ]
+  },
+  "I": {
+    "partners": [
+      "K",
+      "Na",
+      "H",
+      "Ag"
+    ],
+    "bond_character": "ионные связи с металлами, ковалентные с неметаллами",
+    "compounds": [
+      {
+        "formula": "KI",
+        "name_ru": "иодид калия",
+        "name_en": "potassium iodide",
+        "note": "в иодированной соли"
+      },
+      {
+        "formula": "HI",
+        "name_ru": "иодоводород",
+        "name_en": "hydrogen iodide",
+        "note": ""
+      },
+      {
+        "formula": "NaI",
+        "name_ru": "иодид натрия",
+        "name_en": "sodium iodide",
+        "note": ""
+      },
+      {
+        "formula": "AgI",
+        "name_ru": "иодид серебра",
+        "name_en": "silver iodide",
+        "note": "засев облаков"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/53/iodine"
+    ]
+  },
+  "Xe": {
+    "partners": [],
+    "bond_character": "инертен, устойчивых соединений практически не образует",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/"
+    ]
+  },
+  "Cs": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_cesium"
+    ]
+  },
+  "Ba": {
+    "partners": [
+      "O",
+      "S",
+      "Cl",
+      "C"
+    ],
+    "bond_character": "ионные связи",
+    "compounds": [
+      {
+        "formula": "BaSO4",
+        "name_ru": "сульфат бария",
+        "name_en": "barium sulfate",
+        "note": "рентгеноконтраст"
+      },
+      {
+        "formula": "BaO",
+        "name_ru": "оксид бария",
+        "name_en": "barium oxide",
+        "note": ""
+      },
+      {
+        "formula": "BaCl2",
+        "name_ru": "хлорид бария",
+        "name_en": "barium chloride",
+        "note": "ядовит"
+      },
+      {
+        "formula": "BaCO3",
+        "name_ru": "карбонат бария",
+        "name_en": "barium carbonate",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/56/barium"
+    ]
+  },
+  "La": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_lanthanum"
+    ]
+  },
+  "Ce": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_cerium"
+    ]
+  },
+  "Pr": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_praseodymium"
+    ]
+  },
+  "Nd": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_neodymium"
+    ]
+  },
+  "Pm": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_promethium"
+    ]
+  },
+  "Sm": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_samarium"
+    ]
+  },
+  "Eu": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_europium"
+    ]
+  },
+  "Gd": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_gadolinium"
+    ]
+  },
+  "Tb": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_terbium"
+    ]
+  },
+  "Dy": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_dysprosium"
+    ]
+  },
+  "Ho": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_holmium"
+    ]
+  },
+  "Er": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_erbium"
+    ]
+  },
+  "Tm": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_thulium"
+    ]
+  },
+  "Yb": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_ytterbium"
+    ]
+  },
+  "Lu": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_lutetium"
+    ]
+  },
+  "Hf": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_hafnium"
+    ]
+  },
+  "Ta": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_tantalum"
+    ]
+  },
+  "W": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_tungsten"
+    ]
+  },
+  "Re": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_rhenium"
+    ]
+  },
+  "Os": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_osmium"
+    ]
+  },
+  "Ir": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_iridium"
+    ]
+  },
+  "Pt": {
+    "partners": [
+      "Cl",
+      "O",
+      "N"
+    ],
+    "bond_character": "ковалентные комплексы",
+    "compounds": [
+      {
+        "formula": "PtCl2",
+        "name_ru": "хлорид платины(II)",
+        "name_en": "platinum(II) chloride",
+        "note": ""
+      },
+      {
+        "formula": "H2PtCl6",
+        "name_ru": "гексахлорплатиновая кислота",
+        "name_en": "chloroplatinic acid",
+        "note": ""
+      },
+      {
+        "formula": "PtO2",
+        "name_ru": "оксид платины(IV)",
+        "name_en": "platinum(IV) oxide",
+        "note": "катализатор Адамса"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/78/platinum"
+    ]
+  },
+  "Au": {
+    "partners": [
+      "Cl",
+      "O"
+    ],
+    "bond_character": "ковалентные связи, химически инертно",
+    "compounds": [
+      {
+        "formula": "AuCl3",
+        "name_ru": "хлорид золота(III)",
+        "name_en": "gold(III) chloride",
+        "note": ""
+      },
+      {
+        "formula": "HAuCl4",
+        "name_ru": "золотохлористоводородная кислота",
+        "name_en": "chloroauric acid",
+        "note": ""
+      },
+      {
+        "formula": "Au2O3",
+        "name_ru": "оксид золота(III)",
+        "name_en": "gold(III) oxide",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/79/gold",
+      "https://en.wikipedia.org/wiki/Compounds_of_gold"
+    ]
+  },
+  "Hg": {
+    "partners": [
+      "O",
+      "S",
+      "Cl"
+    ],
+    "bond_character": "ковалентно-ионные связи, ядовитые соединения",
+    "compounds": [
+      {
+        "formula": "HgO",
+        "name_ru": "оксид ртути(II)",
+        "name_en": "mercury(II) oxide",
+        "note": ""
+      },
+      {
+        "formula": "HgS",
+        "name_ru": "киноварь",
+        "name_en": "cinnabar",
+        "note": "руда ртути"
+      },
+      {
+        "formula": "HgCl2",
+        "name_ru": "хлорид ртути(II)",
+        "name_en": "mercury(II) chloride",
+        "note": "сулема, яд"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/80/mercury"
+    ]
+  },
+  "Tl": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_thallium"
+    ]
+  },
+  "Pb": {
+    "partners": [
+      "O",
+      "S",
+      "Cl"
+    ],
+    "bond_character": "ковалентно-ионные связи",
+    "compounds": [
+      {
+        "formula": "PbO",
+        "name_ru": "оксид свинца(II)",
+        "name_en": "lead(II) oxide",
+        "note": "глёт"
+      },
+      {
+        "formula": "PbO2",
+        "name_ru": "диоксид свинца",
+        "name_en": "lead(IV) oxide",
+        "note": "в аккумуляторах"
+      },
+      {
+        "formula": "PbS",
+        "name_ru": "галенит",
+        "name_en": "galena",
+        "note": "свинцовая руда"
+      },
+      {
+        "formula": "PbSO4",
+        "name_ru": "сульфат свинца",
+        "name_en": "lead(II) sulfate",
+        "note": ""
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/82/lead"
+    ]
+  },
+  "Bi": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_bismuth"
+    ]
+  },
+  "Po": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "ковалентно-ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_polonium"
+    ]
+  },
+  "At": {
+    "partners": [
+      "H",
+      "O",
+      "Na",
+      "K",
+      "Ca"
+    ],
+    "bond_character": "ковалентные связи с неметаллами, ионные с активными металлами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_astatine"
+    ]
+  },
+  "Rn": {
+    "partners": [],
+    "bond_character": "инертен, устойчивых соединений практически не образует",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/"
+    ]
+  },
+  "Fr": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_francium"
+    ]
+  },
+  "Ra": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_radium"
+    ]
+  },
+  "Ac": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_actinium"
+    ]
+  },
+  "Th": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_thorium"
+    ]
+  },
+  "Pa": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_protactinium"
+    ]
+  },
+  "U": {
+    "partners": [
+      "O",
+      "F"
+    ],
+    "bond_character": "ковалентно-ионные связи",
+    "compounds": [
+      {
+        "formula": "UO2",
+        "name_ru": "диоксид урана",
+        "name_en": "uranium dioxide",
+        "note": "ядерное топливо"
+      },
+      {
+        "formula": "UF6",
+        "name_ru": "гексафторид урана",
+        "name_en": "uranium hexafluoride",
+        "note": "обогащение"
+      },
+      {
+        "formula": "U3O8",
+        "name_ru": "оксид урана",
+        "name_en": "triuranium octoxide",
+        "note": "жёлтый кек"
+      }
+    ],
+    "sources": [
+      "https://periodic-table.rsc.org/element/92/uranium"
+    ]
+  },
+  "Np": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_neptunium"
+    ]
+  },
+  "Pu": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_plutonium"
+    ]
+  },
+  "Am": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_americium"
+    ]
+  },
+  "Cm": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_curium"
+    ]
+  },
+  "Bk": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_berkelium"
+    ]
+  },
+  "Cf": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_californium"
+    ]
+  },
+  "Es": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_einsteinium"
+    ]
+  },
+  "Fm": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_fermium"
+    ]
+  },
+  "Md": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_mendelevium"
+    ]
+  },
+  "No": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_nobelium"
+    ]
+  },
+  "Lr": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_lawrencium"
+    ]
+  },
+  "Rf": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_rutherfordium"
+    ]
+  },
+  "Db": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_dubnium"
+    ]
+  },
+  "Sg": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_seaborgium"
+    ]
+  },
+  "Bh": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_bohrium"
+    ]
+  },
+  "Hs": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_hassium"
+    ]
+  },
+  "Mt": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_meitnerium"
+    ]
+  },
+  "Ds": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_darmstadtium"
+    ]
+  },
+  "Rg": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_roentgenium"
+    ]
+  },
+  "Cn": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_copernicium"
+    ]
+  },
+  "Nh": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_nihonium"
+    ]
+  },
+  "Fl": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_flerovium"
+    ]
+  },
+  "Mc": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_moscovium"
+    ]
+  },
+  "Lv": {
+    "partners": [
+      "O",
+      "Cl",
+      "F",
+      "S",
+      "N"
+    ],
+    "bond_character": "преимущественно ионные связи с неметаллами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_livermorium"
+    ]
+  },
+  "Ts": {
+    "partners": [
+      "H",
+      "O",
+      "Na",
+      "K",
+      "Ca"
+    ],
+    "bond_character": "ковалентные связи с неметаллами, ионные с активными металлами (выведено по электроотрицательности)",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/",
+      "https://en.wikipedia.org/wiki/Compounds_of_tennessine"
+    ]
+  },
+  "Og": {
+    "partners": [],
+    "bond_character": "инертен, устойчивых соединений практически не образует",
+    "compounds": [],
+    "sources": [
+      "https://periodic-table.rsc.org/"
+    ]
+  }
+}

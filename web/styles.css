@@ -1,0 +1,68 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; background: #000; overflow: hidden; color: #eee; }
+#view { display: block; width: 100vw; height: 100vh; }
+#bar {
+  position: fixed; top: 18px; left: 50%; transform: translateX(-50%); z-index: 2;
+  display: flex; gap: 4px; padding: 5px;
+  border-radius: 999px;
+  background: rgba(12, 14, 16, .45);
+  border: 1px solid rgba(255,255,255,.22);
+  backdrop-filter: blur(16px);
+  box-shadow: 0 8px 28px rgba(0,0,0,.35);
+  font-family: Orbitron, "Share Tech Mono", sans-serif;
+}
+#bar button {
+  background: transparent; color: #9a9a9a; border: 1px solid transparent;
+  border-radius: 999px; padding: 8px 16px; font: 500 12px/1 inherit; cursor: pointer;
+  transition: background .25s ease, color .25s ease, border-color .25s ease, box-shadow .25s ease;
+}
+#bar button:hover { color: #fff; border-color: rgba(255,255,255,.45); box-shadow: 0 0 12px rgba(255,255,255,.18); }
+#bar button.active { background: #f2f2f2; color: #111; border-color: #f2f2f2; }
+
+#passport {
+  position: fixed; inset: 0; z-index: 5; display: grid; place-items: center;
+  background: rgba(0, 0, 0, .55); backdrop-filter: blur(8px);
+  opacity: 0; transition: opacity .25s ease;
+}
+#passport.open { opacity: 1; }
+#passport[hidden] { display: none; }
+#sheet {
+  width: min(920px, 92vw); max-height: 88vh; overflow: auto;
+  background: rgba(8, 10, 12, .62); border: 1px solid var(--accent, #6f6);
+  border-radius: 18px; padding: 28px 32px 32px; position: relative;
+  font-family: "Segoe UI", Arial, sans-serif;
+  backdrop-filter: blur(18px);
+  box-shadow: 0 0 28px color-mix(in srgb, var(--accent) 45%, transparent), inset 0 0 40px rgba(0,0,0,.45);
+  transform: translateY(14px); transition: transform .25s ease;
+}
+#passport.open #sheet { transform: none; }
+#sheet h1 { margin: 0; font-size: 72px; line-height: .9; color: var(--accent); text-shadow: 0 0 18px var(--accent); font-family: Orbitron, sans-serif; }
+#sheet .head { display: flex; justify-content: space-between; align-items: center; gap: 20px; }
+#sheet .head canvas { flex: none; filter: drop-shadow(0 0 10px color-mix(in srgb, var(--accent) 40%, transparent)); }
+#sheet .sub { color: var(--accent); margin: 6px 0 0; }
+#sheet .summary { font-family: -apple-system, sans-serif; color: #bbb; line-height: 1.45; font-size: 14px; margin: 14px 0; }
+.sec-block { margin-top: 18px; }
+.sec-block h2 { font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin: 0 0 8px; text-shadow: 0 0 10px var(--accent); }
+.bond { font-size: 14px; color: #dcdcdc; margin-bottom: 10px; }
+.partners { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.chip {
+  background: color-mix(in srgb, var(--accent) 18%, transparent); color: #fff;
+  border: 1px solid var(--accent); border-radius: 8px; padding: 4px 10px;
+  font: 600 13px ui-monospace, Menlo; cursor: pointer;
+}
+.chip:hover { background: var(--accent); color: #0c0e12; }
+.compounds { display: flex; flex-direction: column; gap: 6px; }
+.compound { display: flex; align-items: baseline; gap: 10px; font-size: 13px; }
+.compound .formula { color: var(--accent); min-width: 72px; }
+.compound em { color: #888; font-style: normal; }
+.sources { margin-top: 10px; font-size: 12px; }
+.sources a { color: var(--accent); margin-right: 4px; }
+.muted { color: #777; font-size: 13px; }
+.close {
+  position: absolute; top: 14px; right: 14px; width: 34px; height: 34px; border-radius: 50%;
+  background: transparent; color: var(--accent); border: 1px solid var(--accent); cursor: pointer;
+}
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 28px; margin-top: 16px; }
+.row { display: flex; justify-content: space-between; gap: 12px; font-size: 13px; border-bottom: 1px solid rgba(255,255,255,.06); padding: 4px 0; }
+.row span { color: #888; }
+@media (max-width: 700px) { .grid { grid-template-columns: 1fr; } }
